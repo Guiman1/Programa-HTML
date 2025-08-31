@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width initial-scale=1.0" />
+    <link rel="stylesheet" href="./estilopratica.css" />
+    <title>Atividade Prática</title>
+</head>
+
+<body>
+    <div class="introducao">
+        <div style="text-align: center;">
+
+            <body>
+                <p>
+                <header>
+                    <h1>PÁGINA DE APRESENTAÇÃO</h1>
+                </header>
+                </p>
+                <p>
+                    <span>
+                        GUILHERME ALMEIDA DE LIMA
+                    </span>
+                </p>
+
+            </body>
+        </div>
+    </div>
+
+    <hr>
+
+    <sect           <h3>
+                <strong>HOBBIES, INTERESSES, ETC</strong>
+            </h3>
+            <p>Gosto a muito tempo de jogos eletrônicos, já jogando desde criança vários títulos do PS2, como <span
+                    style="color: red;">God of War, Crash Bandicoot</span>, etc. Esse meu interesse até hoje existe,
+                mas
+                não tanto quanto antigamente, pois venho me interessando em mais atividades físicas, como correr
+                regularmente, praticar esportes como vôlei, musculação e agora que estou cursando ciências da
+                computação, praticar mais meu conhecimento sobre programação.</p>
+        </div>
+    </section>
+
+</html>ion>
+        <div class="caixa">
+            <h3>
+                <strong>SOBRE MIM</strong>
+            </h3>
+            <p>
+                Meu nome é <em>
+                    <span style="color: red;"> Guilherme Almeida de Lima</span>
+                </em>, nasci na cidade de Sousa mas moro em Cajazeiras desde a infância. Estudei no Cólegio Nossa
+                Senhora de Lourdes até nono ano, que depois, ao chegar no ensino médio, mudei para o Cólegio Nossa
+                Senhora do Carmo. Tenho 18 anos atualmente e estou fazendo faculdade na FAFIC, seguindo o rumo de
+                Ciências da Computação.
+            </p>
+        </div>
+
+        <div class="caixa2">
+ 
