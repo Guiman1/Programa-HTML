@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(234, 250, 249);
+    margin: 16px;
+    padding: 4px;
+}
+
+.introducao {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 12;
+}
+
+
+.caixa {
+    position: inherit;
+    width: 93vw;
+    height: 24vh;
+    padding: 8px;
+    margin: 16px;
+    border: 4px solid rgb(169, 71, 255);
+    background-color: rgb(214, 211, 244);
+    text-align: center;
+}
+
+/* Originalmente, eu ia fazer a caixa verticalmente, porém tive dificuldade em posicionar ela bem no site, então optei por uma width e height que preenchese a tela e deixaria mais fácil usar o section.
+*/
+
+.caixa2 {
+    position: inherit;
+    width: 93vw;
+    height: 24vh;
+    padding: 8px;
+    margin: 16px;
+    border: 4px solid rgb(0, 89, 255);
+    background-color: rgb(255, 250, 157);
+    text-align: center;
+}
+
+/*Basicamente só peguei a mesma caixa anterior, mas as cores para mudar o tópico.*/
